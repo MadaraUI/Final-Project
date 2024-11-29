@@ -1,0 +1,21 @@
+{
+  "@@locale": "en",
+  "title": "Customer Home",
+  "user_menu": "User Menu",
+  "home": "Home",
+  "account": "Account",
+  "logout": "Logout",
+  "no_products": "No products available.",
+  "product_name": "Product Name",
+  "brand": "Brand",
+  "description": "Description",
+  "price_per_hour": "Price per Hour",
+  "with_operator": "With Operator",
+  "buy": "Buy",
+  "purchase_confirmation": "Purchase Confirmation",
+  "do_you_want_to_buy": "Do you want to buy {product}?",
+  "cancel": "Cancel",
+  "yes": "Yes",
+  "no": "No",
+  "search_products": "search_products"
+}

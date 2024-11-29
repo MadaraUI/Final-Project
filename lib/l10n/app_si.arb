@@ -1,0 +1,21 @@
+{
+  "@@locale": "si",
+  "title": "පාරිභෝගික පිටුව",
+  "user_menu": "පරිශීලක මෙනුව",
+  "home": "මුල් පිටුව",
+  "account": "ගිණුම",
+  "logout": "පිටවීම",
+  "no_products": "ප්රමාණවත් භාණ්ඩ නොමැත.",
+  "product_name": "භාණ්ඩ නම",
+  "brand": "වෙළඳ නාමය",
+  "description": "විස්තරය",
+  "price_per_hour": "පැය ගණනකට මිල",
+  "with_operator": "ක්‍රියාකරු සමග",
+  "buy": "මිලදී ගන්න",
+  "purchase_confirmation": "මිලදී ගැනීම තහවුරු කිරීම",
+  "do_you_want_to_buy": "ඔබට {product} මිලදී ගැනීමට අවශ්යද?",
+  "cancel": "අවලංගු කරන්න",
+  "yes": "ඔව්",
+  "no": "නැත",
+  "search_products": "search_products"
+}

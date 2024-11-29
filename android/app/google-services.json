@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "34774955230",
+    "project_id": "rent-hub-dc7b5",
+    "storage_bucket": "rent-hub-dc7b5.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:34774955230:android:260a0ba55cadd70c203e4f",
+        "android_client_info": {
+          "package_name": "com.example.rent_hub"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBAGigsq6nz6xL5BRlBthNNknM35QLySJo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
